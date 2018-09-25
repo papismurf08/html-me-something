@@ -1,0 +1,48 @@
+body {
+  background-color: lightslategrey;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+#article-title {
+	text-transform: capitalize;
+}
+
+.title {
+	color: teal;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul {
+  text-align: center;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 16px;
+  font-size: 16px;
+}
+
+footer {
+	text-align: center;
+	padding: 48px;
+}
+
+footer p {
+	display: inline-block;
+}
